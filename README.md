@@ -1,6 +1,6 @@
 # V1.1
 Pridėta programos veikimas nauodojant 'class'
-VECTOR
+
 || Struct |Class|
 |------|------|------|
 |100 000|0.031 s|0.022 s|
